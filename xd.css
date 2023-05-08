@@ -1,0 +1,98 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Cairo';
+    text-decoration: rtl;
+}
+#logo{
+    width: 50px;
+    height: 50px;
+}
+
+#nav{
+    width: 100%;
+    background-color: #130a33;
+    position: fixed;
+    top: 0px;
+
+
+}
+ul{
+    list-style: none;
+}
+li{
+    list-style: none;
+}
+#form-student{
+    background: none;
+    margin-top: 11em;
+    font-size: 7px;
+}
+#home-btn{
+    width: 100%;
+    height: 4em;
+    border-radius: 1em;
+    margin-bottom: 2em;
+    background-color: #130a33;
+}
+i{
+    font-size: 25px;
+    padding: 2em;
+    color: rgb(235, 202, 15);
+}
+#f1{
+    margin-top: 1em;
+    direction: rtl;
+}
+.card{
+    margin: 7px;
+    padding: 2em;
+    direction: rtl;
+}
+p{
+    color: rgb(180, 23, 23);
+    font-size: 16px;
+}
+table{
+    text-align: center;
+    font-size: 15px;
+
+}
+#i-table{
+ font-size: 17px;
+ color: #280380;   
+ padding: 0px;
+
+}
+#count{
+    float: right;
+    font-size: 25px;
+    color: rgb(219, 217, 76);
+}
+textarea{
+    direction: rtl;
+}
+#nav-tab{
+position: fixed;
+bottom: 0px;
+width: 100%;
+background-color: #dadada;
+height: 4em;
+box-shadow: 10px 0px 10px;
+
+}
+#nav-tab>button{
+    color: rgb(19, 19, 17);
+    width: 50%;
+}
+#nav-tab>button{
+    color: rgb(7, 7, 7);
+}
+#nav-tab>button>i{
+    color: rgb(19, 19, 17);
+}
+form{
+    background: none;
+}
+.card{
+    background: none;
+}
